@@ -10,12 +10,13 @@
 
   .password-display,
   .password-placeholder {
-    font-size: 2.4rem;
+    font-size: 1.5rem;
   }
 
   .password-field {
     height: 64px;
     margin-bottom: 1.6rem;
+    padding: 1rem;
   }
 
   .char-count {
@@ -68,10 +69,12 @@
   .strength-box {
     margin-bottom: 1.6rem;
     padding: 0 1.6rem;
+    padding: 0rem;
   }
 
   .strength-label {
-    font-size: 1.8rem;
+    font-size: 1.3rem;
+    margin-right:2rem;
   }
 
   .generate-btn {
